@@ -1,16 +1,48 @@
-# calculator_app
+# Flutter Calculator App
 
-A new Flutter project.
+A simple calculator app built with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter installed on your machine
+- An emulator or a physical device to run the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/praneethp07/Flutter_calculator.git
+
+    Navigate to the project folder:
+
+    bash
+
+cd Flutter_calculator
+
+Run the app:
+
+bash
+
+    flutter run
+
+Usage
+
+    Enter numbers and perform calculations using the buttons.
+    Use the clear button (C) to reset the input.
+
+Contributing
+
+Contributions are welcome! If you'd like to improve the app or add new features, please follow these steps:
+
+    Fork the repository
+    Create a new branch: git checkout -b feature/your-feature-name
+    Make your changes and commit them: git commit -m 'Add some feature'
+    Push to the branch: git push origin feature/your-feature-name
+    Submit a pull request
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
