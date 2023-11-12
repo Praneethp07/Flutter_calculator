@@ -13,11 +13,16 @@ A simple calculator app built with Flutter.
 
 1. Clone the repository:
 bash
-git clone https://github.com/praneethp07/Flutter_calculator.git
+
+       git clone https://github.com/praneethp07/Flutter_calculator.git
+
+
+
 Navigate to the project folder:
+
 bash
 
-cd Flutter_calculator
+    cd Flutter_calculator
 
 Run the app:
 
