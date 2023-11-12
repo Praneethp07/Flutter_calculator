@@ -12,13 +12,10 @@ A simple calculator app built with Flutter.
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/praneethp07/Flutter_calculator.git
-
-    Navigate to the project folder:
-
-    bash
+```bash
+git clone https://github.com/praneethp07/Flutter_calculator.git
+Navigate to the project folder:
+bash
 
 cd Flutter_calculator
 
